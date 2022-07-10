@@ -13,8 +13,8 @@ This powerful library was developed by myself and [tunip3](https://github.com/tu
 ## Additional details
 
 To use the most of this library, your app must declare the following capabilities:
-- runFullTrust
-- broadFileSystemAccess
+- ``runFullTrust``
+- ``broadFileSystemAccess``
 
 ## Samples
 
